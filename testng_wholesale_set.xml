@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ultrapro">
+   <!-- run this file as Run Configuration passing below parameters 
+    		1.	-DBROWSER=chrome   // browser name 
+			2.	-DENV=qa2          // environment
+     -->
+   <test name="Ultrapro_Wholesale_Regression"> 
+      <classes>        	    
+        <class name="com.ultrapro.test.regression.WholesalePage_Test"></class>
+      </classes>
+   </test>
+</suite>

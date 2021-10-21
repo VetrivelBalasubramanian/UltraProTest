@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ultrapro_QA_Regression">
+   <!-- run this file as Run Configuration passing below parameters 
+    		1.	-DBROWSER=chrome   // browser name 
+			2.	-DENV=qa2          // environment
+     -->
+   <test name="Ultrapro_QA_Regression"> 
+      <classes>        	    
+        <class name="com.ultrapro.test.regression.HomePage_Test"></class>
+        <class name="com.ultrapro.test.regression.CartPage_Test"></class>
+        <class name="com.ultrapro.test.regression.FooterBlock_Test"></class>
+        <class name="com.ultrapro.test.regression.PaymentPage_Test">
+        <methods>
+         		<exclude name="TT_25_verifyTheValidCouponCodeApplied"></exclude>
+         		<exclude name="TT_26_verifyErrorForInvalidCouponCodeApplied"></exclude>
+        </methods>
+        </class>
+        <class name="com.ultrapro.test.regression.MyOrders_Test"></class>
+        <class name="com.ultrapro.test.regression.AddressBookPage_Test"></class>
+        <class name="com.ultrapro.test.regression.CheckOutPage_Test"></class>
+        <class name="com.ultrapro.test.regression.MyCartPage_Test"></class>
+      	 <class name="com.ultrapro.test.regression.MyWishListPage_Test"></class>
+      </classes>
+   </test>
+</suite>

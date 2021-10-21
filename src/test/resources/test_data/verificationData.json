@@ -1,0 +1,213 @@
+{
+	"qa2": {
+		"searchbox": {
+			"searchtext": "BOOK CLUB"
+		},
+		"homepage": {
+			"submenus": "TABLETOP EDITIONS;TRAVEL SIZE EDITIONS;PLACEMATS;WHAT'S NEW;SHOP ALL;SAMPLE QUESTIONS",
+			"subcategory": "ORIGINAL;FAMILY;FAMILY GATHERING;INFOMANIA FAMILY;BEST THINGS EVER;FAMILIA ESPANOL EDITION;DINNER PARTY;NOT YOUR MOM'S DINNER PARTY;BOOK CLUB;COCKTAIL;PAST PRESENT FUTURE;INSPIRING WOMEN;WHAT WOULD YOU DO;DO-IT-YOURSELF THERAPY;HAPPINESS;GIRLS NIGHT OUT;COUPLES;DATE NIGHT;TEEN;INSPIRING WOMEN FOR GIRLS;GRANDPARENTS & GRANDKIDS;INFOMANIA FAMILY;INFOMANIA SPORTS;GEEK POP;Kids;Can You Imagine;What Do You Think;Family Conversation Pack;Kids Conversation Pack;Kids;Slumber Party;Can You Imagine;What Do You Think;Kids Conversation Pack;Travel;Road Trip;Golf;Celebrate;Friends Conversation Pack;Holiday Conversation Pack;Getting Married Conversation Pack;Pop Culture Conversation Pack",
+			"usernameintheheader": "WELCOME, PARI J!"
+		},
+		"invaliderrormessage": {
+			"invaliderrormesg": "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
+		},
+		"forgotpasswordpage": {
+			"recoveryemail": "vetri@riverstonetech.com",
+			"message": "If there is an account associated with vetri@riverstonetech.com you will receive an email with a link to reset your password."
+		},
+		"footerblock": {
+			"shippinginformation": "Shipping Information",
+			"privacypolicy": "Privacy Policy",
+			"faqs": "Information & FAQs",
+			"awardwinningeditions": "Award-winning Editions page",
+			"giftideas": "Gifts Under $25 - Host & Hostess Gifts, Gifts for Everyone on Your List | TableTopics",
+			"storelocator": "FIND A STORE NEAR YOU",
+			"wholesaleorders": "Wholesale Orders",
+			"pricelist": "conversation starters - icebreaker games | tabletopics",
+			"facebook": "TableTopics - Home | Facebook",
+			"instagram": "tabletopics (@tabletopicsinc) • instagram photos and videos",
+			"pinterest": "tabletopics (tabletopics) - profile | pinterest",
+			"tiktok": "TikTok"
+		},
+		"shoppingcartpage": {
+			"pagetitle": "Shopping Cart"
+		},
+		"minicart": {
+			"emptymessage": "YOU HAVE NO ITEMS IN YOUR SHOPPING CART.",
+			"maxqtymessage": "We don't have as many PRODUCT-SKU-NAME as you requested",
+			"singleproduct": "Dinner Party",
+			"productname": "DINNER PARTY"
+		},
+		"checkoutpage": {
+			"pagetitle": "Checkout"
+		},
+		"invalidcreditcarddetails": {
+			"creditcardnumber": "4242424242424242",
+			"expmonth": "02 - February",
+			"expyear": "2021",
+			"expirederrormessage": "Incorrect credit card expiration date.",
+			"addnewcard": "Add new card",
+			"cvcnumber": "24578"
+		},
+		"purchasesuccesspage": {
+			"message": "THANK YOU FOR YOUR ORDER!"
+		},
+		"vieworderpage": {
+			"orderid": "ORDER # ",
+			"orderstatus": "PROCESSING",
+			"cancelledorderstatus": "CANCELLED",
+			"paymentmethod": "Credit Card - Please Note: the charge will show on your credit card statement as TableTopics | Ultra PRO International."
+		},
+		"mywishlistpage": {
+			"productsname": "Dinner Party",
+			"emptywishlistmessage": "You have no items in your wish list.",
+			"email": "vetri@riverstonetech.com",
+			"emptyemail": "",
+			"message": "Hi, You can add these products to your cart",
+			"sharedsuccessmessage": "Your wish list has been shared.",
+			"sharederrormessage": "This is a required field."
+		},
+		"checkoutshippingaddress": {
+			"shipherebuttonreplacetext": "Ship Here",
+			"changeshippingaddress": "Pari J\n12529 State Road 535\nOrlando, Florida 32836\nUnited States\n8777974743",
+			"changedshippingaddress": "Vetrivel B\n71 Bowman, 601 13th Street NW,\nCanyon Country, California 91387\nUnited States\n2212345678",
+			"editedshippingaddress": "Vetrivel B\nenphase\n71 Bowman\n601 13th Street NW,\nCanyon Country, California, 91387\nUnited States\nT: 2212345678",
+			"switchedshippingaddress": "Pari J\n12529 State Road 535\nOrlando, Florida 32836\nUnited States\n8777974743"
+		},
+		"addressbookpage": {
+			"newaddress": "Vetri B 850 Simpson Square Clinton United States Pennsylvania 73601 2212345678  ",
+			"errormessage": "Please select an option.;This is a required field.;This is a required field.;This is a required field.;This is a required field.",
+			"shippingaddress": "Vetri B\n3 Spruce St.\nEligin, Illinois, 60169\nUnited States\nT: 2212345678",
+			"editshippingaddress": "Vetri B\n3 Spruce St.\nEligin, Illinois, 60169\nUnited States\nT: 2212345678",
+			"billingaddress": "Vetri B\n9589 S.Square\nEast Stroudsburg, Pennsylvania, 94588\nUnited States\nT: 2212345678",
+			"editbillingaddress": "Vetri B\n9589 S.Square\nEast Stroudsburg, Pennsylvania, 94588\nUnited States\nT: 2212345678",
+			"editaddress": "Vetri B 8321 Cooper St Maineville United States Ohio 45039 2212345678  ",
+			"noadditionaladdressmsg": "You have no other address entries in your address book.",
+			"replacetext": "Edit;Delete"
+		},
+		"mycart": {
+			"productsname": "Dinner Party",
+			"emptycart": "You have no items in your shopping cart.",
+			"invaliddiscountcodeerror": "The coupon code \"{discountcode}\" is not valid.",
+			"validcouponcodesuccessmessage": "You used coupon code \"{discountcode}\".",
+			"cancelapplieddiscountcode": "You canceled the coupon code."
+		},
+		"discountcode": {
+			"validcouponcode": "SAVE20",
+			"invalidcouponcode": "ULTRA2020",
+			"successmessage": "The coupon code isn't valid. Verify the code and try again.",
+			"errormessage": "Coupon code is not valid"
+		},
+		"aboutpage": {
+			"content": "FUNCONVERSATIONSTARTERSFOREVERYOCCASIONTableTopicsQuestionstoStartGreatConversationsaretheaward-winningconversationstartersetsthathelpmillionsofpeoplesparkfunandmeaningfuldiscussionswiththeirfamilyandfriendsaroundthedinnertable,atparties,onroadtrips–wherever!WhatstartedasapersonalpassionforgreatconversationhasblossomedintoAmerica’smostpopularconversationgamewithover35productssoldinspecialtystoresthroughouttheU.S.,Canada,andtheworld.TableTopicsisadivisionofUltraPROInternational,LLCandisheadquarteredinCommerce,California.MEDIAHIGHLIGHTSTableTopicseditionshavebeenfeaturedonanumberoftelevisionshowsandseries-TheEllenDeGeneresShow,MarthaStewartShow,TodayShow,JoyBeharShow,KocktailswithKhloe,Parenthood,andLove(Netflix)tonameafew.PrintfeaturesincludecoverageinRealSimple,BetterHomesandGardens,VanityFair,Cosmopolitan,GQ,InStyle,FoodandWine,PeopleStylewatch,USAToday,Women'sWearDaily,GoodHousekeeping,andO,TheOprahMagazine-FavoriteThingsIssue.Award-winningEditions:KIDSEdition-CreativeChildMagazine,ProductoftheYearAward,2012.FAMILYEdition-CreativeChildMagazine,PreferredChoiceAward,2012.INFOMANIAFAMILYEdition-CreativeChildMagazine,ProductoftheYear,2013.MEDIACONTACTpublicity@tabletopics.com"
+		}
+	},
+	"prod": {
+		"searchbox": {
+			"searchtext": "BOOK CLUB"
+		},
+		"homepage": {
+			"submenus": "TABLETOP EDITIONS;TRAVEL SIZE EDITIONS;PLACEMATS;WHAT’S NEW;SHOP ALL;SAMPLE QUESTIONS",
+			"subcategory": "ORIGINAL;FAMILY;FAMILY GATHERING;INFOMANIA FAMILY;BEST THINGS EVER;FAMILIA ESPANOL EDITION;DINNER PARTY;NOT YOUR MOM'S DINNER PARTY;BOOK CLUB;COCKTAIL;PAST PRESENT FUTURE;INSPIRING WOMEN;WHAT WOULD YOU DO;DO-IT-YOURSELF THERAPY;HAPPINESS;GIRLS NIGHT OUT;COUPLES;DATE NIGHT;TEEN;INSPIRING WOMEN FOR GIRLS;GRANDPARENTS & GRANDKIDS;INFOMANIA FAMILY;INFOMANIA SPORTS;GEEK POP;Kids;Can You Imagine;What Do You Think;Family Conversation Pack;Kids Conversation Pack;Kids;Slumber Party;Can You Imagine;What Do You Think;Kids Conversation Pack;Travel;Road Trip;Golf;Celebrate;Friends Conversation Pack;Holiday Conversation Pack;Getting Married Conversation Pack;Pop Culture Conversation Pack",
+			"usernameintheheader": "WELCOME, PARI J!"
+		},
+		"invaliderrormessage": {
+			"invaliderrormesg": "The account sign-in was incorrect or your account is disabled temporarily. Please wait and try again later."
+		},
+		"forgotpasswordpage": {
+			"recoveryemail": "vetri@riverstonetech.com",
+			"message": "If there is an account associated with vetri@riverstonetech.com you will receive an email with a link to reset your password."
+		},
+		"footerblock": {
+			"shippinginformation": "Shipping Information",
+			"privacypolicy": "Privacy Policy",
+			"faqs": "Information & FAQs",
+			"awardwinningeditions": "TableTopics Award-winning Editions",
+			"giftideas": "Gifts Under $25 - Host & Hostess Gifts, Gifts for Everyone on Your List | TableTopics",
+			"storelocator": "FIND A STORE NEAR YOU",
+			"wholesaleorders": "Wholesale Orders",
+			"pricelist": "conversation starters - icebreaker games | tabletopics",
+			"facebook": "TableTopics - Home | Facebook",
+			"instagram": "tabletopics (@tabletopicsinc) • instagram photos and videos",
+			"pinterest": "tabletopics (tabletopics) - profile | pinterest",
+			"tiktok": "TikTok"
+		},
+		"shoppingcartpage": {
+			"pagetitle": "Shopping Cart"
+		},
+		"minicart": {
+			"emptymessage": "YOU HAVE NO ITEMS IN YOUR SHOPPING CART.",
+			"maxqtymessage": "We don't have as many PRODUCT-SKU-NAME as you requested",
+			"singleproduct": "Dinner Party",
+			"productname": "DINNER PARTY"
+		},
+		"invalidcreditcarddetails": {
+			"creditcardnumber": "4242424242424242",
+			"expmonth": "02 - February",
+			"expyear": "2021",
+			"paymentmethod": "Credit Card",
+			"expirederrormessage": "Incorrect credit card expiration date.",
+			"addnewcard": "Add new card",
+			"cvcnumber": "24578"
+		},
+		"mywishlistpage": {
+			"productsname": "Dinner Party",
+			"emptywishlistmessage": "You have no items in your wish list.",
+			"email": "vetri@riverstonetech.com",
+			"emptyemail": "",
+			"message": "Hi, You can add these products to your cart",
+			"sharedsuccessmessage": "Your wish list has been shared.",
+			"sharederrormessage": "This is a required field."
+		},
+		"checkoutpage": {
+			"pagetitle": "Checkout"
+		},
+		"checkoutshippingaddress": {
+			"shipherebuttonreplacetext": "Ship Here",
+			"changeshippingaddress": "Pari J\n12529 State Road 535\nOrlando, Florida 32836\nUnited States\n8777974743",
+			"switchedshippingaddress": "Pari J\n12529 State Road 535\nOrlando, Florida 32836\nUnited States\n8777974743"
+		},
+		"addressbookpage": {
+			"newaddress": "Vetri B 850 Simpson Square Clinton United States Pennsylvania 73601 2212345678  ",
+			"errormessage": "Please select an option.;This is a required field.;This is a required field.;This is a required field.;This is a required field.",
+			"shippingaddress": "Vetri B\n3 Spruce St.\nEligin, Illinois, 60169\nUnited States\nT: 2212345678",
+			"editshippingaddress": "Vetri B\n3 Spruce St.\nEligin, Illinois, 60169\nUnited States\nT: 2212345678",
+			"billingaddress": "Vetri B\n3 Spruce St.\nEligin, Illinois, 60169\nUnited States\nT: 2212345678",
+			"editbillingaddress": "Vetri B\n9589 S.Square\nEast Stroudsburg, Pennsylvania, 94588\nUnited States\nT: 2212345678",
+			"editaddress": "Vetri B 8321 Cooper St Maineville United States Ohio 45039 2212345678  ",
+			"noadditionaladdressmsg": "You have no other address entries in your address book.",
+			"replacetext": "Edit;Delete"
+		},
+		"purchasesuccesspage": {
+			"message": "THANK YOU FOR YOUR PURCHASE!"
+		},
+		"mycart": {
+			"productsname": "Dinner Party",
+			"emptycart": "You have no items in your shopping cart.",
+			"invaliddiscountcodeerror": "The coupon code \"{discountcode}\" is not valid.",
+			"validcouponcodesuccessmessage": "You used coupon code \"{discountcode}\".",
+			"cancelapplieddiscountcode": "You canceled the coupon code."
+		},
+		"discountcode": {
+			"validcouponcode": "SAVE20",
+			"invalidcouponcode": "ULTRA2020",
+			"successmessage": "The coupon code isn't valid. Verify the code and try again.",
+			"errormessage": "Coupon code is not valid"
+		},
+		"aboutpage": {
+			"content": "FUNCONVERSATIONSTARTERSFOREVERYOCCASIONTableTopicsQuestionstoStartGreatConversationsaretheaward-winningconversationstartersetsthathelpmillionsofpeoplesparkfunandmeaningfuldiscussionswiththeirfamilyandfriendsaroundthedinnertable,atparties,onroadtrips–wherever!WhatstartedasapersonalpassionforgreatconversationhasblossomedintoAmerica’smostpopularconversationgamewithover35productssoldinspecialtystoresthroughouttheU.S.,Canada,andtheworld.TableTopicsisadivisionofUltraPROInternational,LLCandisheadquarteredinCommerce,California.MEDIAHIGHLIGHTSTableTopicseditionshavebeenfeaturedonanumberoftelevisionshowsandseries-TheEllenDeGeneresShow,MarthaStewartShow,TodayShow,JoyBeharShow,KocktailswithKhloe,Parenthood,andLove(Netflix)tonameafew.PrintfeaturesincludecoverageinRealSimple,BetterHomesandGardens,VanityFair,Cosmopolitan,GQ,InStyle,FoodandWine,PeopleStylewatch,USAToday,Women'sWearDaily,GoodHousekeeping,andO,TheOprahMagazine-FavoriteThingsIssue.Award-winningEditions:KIDSEdition-CreativeChildMagazine,ProductoftheYearAward,2012.FAMILYEdition-CreativeChildMagazine,PreferredChoiceAward,2012.INFOMANIAFAMILYEdition-CreativeChildMagazine,ProductoftheYear,2013.MEDIACONTACTpublicity@tabletopics.com"
+		}
+	},
+	"wholesale": {
+		"minicart": {
+			"emptymessage": "YOU HAVE NO ITEMS IN YOUR SHOPPING CART.",
+			"maxqtymessage": "We don't have as many PRODUCT-SKU-NAME as you requested",
+			"singleproduct": "Dinner Party",
+			"productname": "DINNER PARTY"
+		},
+		"purchasesuccesspage": {
+			"message": "THANK YOU FOR YOUR ORDER!"
+		}
+	}
+}
+ 
