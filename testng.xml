@@ -7,7 +7,7 @@
      -->
    <test name="Ultrapro_Test"> 
       <classes>      
-               <class name="com.ultrapro.test.regression.HomePage_Test">
+               <class name="com.ultrapro.test.regression.FooterBlock_Test">
                
                </class>
       </classes>
